@@ -18,19 +18,10 @@ Add coding to the input value.
 ### Step 6: 
 Print the coding to get answer.
 ## Program:
-Program to circulate N values.
-Developed by: Mohamed Nadheem N
-RegisterNumber:23014217
-```
-def circulate():
-    list1=eval(input())
-    n=int(input())
-    result=list1[n:]+list1[:n]
-    print("After circulating the values are:",result)      
-```
+
 
 ## Output:
-![1b](https://github.com/MohamedNadheem/Circulate-the-values-of-N-variables/assets/148197556/efe58678-e8ff-4b75-a4da-3ac196797800)
+
 
 
 ## Result:
