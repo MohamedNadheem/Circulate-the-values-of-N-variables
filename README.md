@@ -18,9 +18,22 @@ Add coding to the input value.
 ### Step 6: 
 Print the coding to get answer.
 ## Program:
+Program to circulate N values.
 
+Developed by: Mohamed Nadheem N
+
+RegisterNumber:23014217
+```python
+
+def circulate():
+    list1=eval(input())
+    n=int(input())
+    result=list1[n:]+list1[:n]
+    print("After circulating the values are:",result)    
+```
 
 ## Output:
+![Alt text](1b-2.png)
 
 
 
